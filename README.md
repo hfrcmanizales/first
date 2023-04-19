@@ -1,2 +1,2 @@
-# primero
-mi primer reposotorio
+# primero 
+mi primer reposotorio clonado
